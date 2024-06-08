@@ -9,8 +9,6 @@ The script will detect when any of the arrow keys are pressed and will move the 
 
 */
 
-// this is a test change to test the commit functionality
-
 const ball = document.getElementById('ball'); // get the ball
 
 document.addEventListener('keydown', handleKeyPress); // listen for keys
